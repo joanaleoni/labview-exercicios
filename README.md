@@ -1,2 +1,2 @@
 # LabVIEW exercícios
-> Prática com LabView
+> Prática com LabVIEW
